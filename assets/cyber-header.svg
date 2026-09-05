@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Ramiah</title>
+  <desc id="desc">Flat dark cybernetic banner with cyan, magenta, and lime circuit accents.</desc>
+  <rect width="1200" height="300" fill="#0B0F14"/>
+  <rect x="18" y="18" width="1164" height="264" rx="18" fill="#10161D" stroke="#24303C" stroke-width="2"/>
+  <g stroke="#1A2732" stroke-width="1" opacity="0.9">
+    <path d="M60 60H1140M60 100H1140M60 140H1140M60 180H1140M60 220H1140M60 260H1140"/>
+    <path d="M100 40V260M180 40V260M260 40V260M340 40V260M420 40V260M500 40V260M580 40V260M660 40V260M740 40V260M820 40V260M900 40V260M980 40V260M1060 40V260"/>
+  </g>
+  <g fill="none" stroke-linecap="square" stroke-width="4">
+    <path d="M52 86H150V54H220" stroke="#00E5FF"/>
+    <path d="M980 56H1088V92H1148" stroke="#FF2BD6"/>
+    <path d="M52 214H126V246H246" stroke="#9EFF00"/>
+    <path d="M954 244H1064V210H1148" stroke="#00E5FF"/>
+  </g>
+  <g>
+    <circle cx="150" cy="86" r="7" fill="#00E5FF"/>
+    <circle cx="1088" cy="92" r="7" fill="#FF2BD6"/>
+    <circle cx="126" cy="214" r="7" fill="#9EFF00"/>
+    <circle cx="1064" cy="210" r="7" fill="#00E5FF"/>
+  </g>
+  <rect x="80" y="92" width="10" height="116" fill="#00E5FF"/>
+  <rect x="98" y="92" width="4" height="116" fill="#FF2BD6"/>
+  <text x="130" y="145" fill="#F2F7FA" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800" letter-spacing="3">OMAR RAMIAH</text>
+  <text x="134" y="188" fill="#8FA6B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="4">WINDOWS • ANDROID • PRIVACY-FIRST SOFTWARE</text>
+  <g font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="15" font-weight="700">
+    <text x="133" y="232" fill="#00E5FF">// BUILD</text>
+    <text x="229" y="232" fill="#FF2BD6">// REFINE</text>
+    <text x="335" y="232" fill="#9EFF00">// SHIP</text>
+  </g>
+  <g transform="translate(951 124)">
+    <rect width="144" height="54" rx="10" fill="#0B0F14" stroke="#24303C" stroke-width="2"/>
+    <circle cx="27" cy="27" r="8" fill="#9EFF00"/>
+    <text x="48" y="33" fill="#C9D6DF" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="16" font-weight="700">ONLINE</text>
+  </g>
+</svg>
