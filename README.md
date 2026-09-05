@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  I build fast, clean Windows & Android apps.<br>
-  <sub>Privacy first • Offline when possible • No bloat</sub>
+  Welcome to the future!
+  <sub>Privacy First • Offline When Possible • No Bloat • No Ads</sub>
 </p>
 
 <p align="center">
