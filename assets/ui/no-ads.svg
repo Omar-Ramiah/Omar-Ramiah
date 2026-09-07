@@ -1,7 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="136" height="44" viewBox="0 0 136 44" role="img" aria-labelledby="title"><title id="title">No Ads</title>
     <path d="M9 1H135V34L126 43H1V10Z" fill="#0B1218" stroke="#263840"/>
     <path d="M1 19V10L10 1H29" fill="none" stroke="#00E5FF"/>
-    <text x="16" y="27" fill="#00E5FF" font-family="Consolas,Menlo,monospace" font-size="11">04</text>
-    <path d="M39 14V30" stroke="#2B3C45"/>
-    <text x="51" y="27" fill="#DBE7EF" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing=".3">NO ADS</text>
+    <text x="68" text-anchor="middle" y="27" fill="#DBE7EF" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing=".3">NO ADS</text>
   </svg>

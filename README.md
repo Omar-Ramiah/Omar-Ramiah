@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/privacy.svg?v=a2d51f43" width="184" height="44" alt="Privacy First" />
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/offline.svg?v=87498759" width="264" height="44" alt="Offline When Possible" />
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/no-bloat.svg?v=25e9ffbe" width="152" height="44" alt="No Bloat" />
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/no-ads.svg?v=b4d72621" width="136" height="44" alt="No Ads" />
+  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/privacy.svg?v=152286f6" width="184" height="44" alt="Privacy First" />
+  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/offline.svg?v=df39dad7" width="264" height="44" alt="Offline When Possible" />
+  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/no-bloat.svg?v=8389f0fb" width="152" height="44" alt="No Bloat" />
+  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/no-ads.svg?v=f3709d2d" width="136" height="44" alt="No Ads" />
 </p>
 
 <p align="center">
