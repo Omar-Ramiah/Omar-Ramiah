@@ -14,5 +14,5 @@
   <img src="https://img.shields.io/badge/Flutter-0B0F14?style=flat-square&amp;logo=flutter&amp;logoColor=00E5FF" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0B0F14?style=flat-square&amp;logo=dart&amp;logoColor=FF2BD6" alt="Dart" />
   <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/badges/windows.svg" width="82" height="20" alt="Windows" />
-  <img src="https://img.shields.io/badge/Android-0B0F14?style=flat-square&amp;logo=android&amp;logoColor=00E5FF" alt="Android" />
+  <img src="https://img.shields.io/badge/Android-0B0F14?style=flat-square&amp;logo=android&amp;logoColor=9EFF00" alt="Android" />
 </p>
