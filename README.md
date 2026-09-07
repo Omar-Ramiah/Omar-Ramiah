@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/cyber-header.svg?v=955eb6c" width="100%" alt="Omar Ramiah" />
+  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/cover.png?v=7ad0f4ba" width="100%" alt="Omar Ramiah" />
 </p>
 
 <p align="center">
