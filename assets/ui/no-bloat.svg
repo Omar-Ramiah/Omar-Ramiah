@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="152" height="44" viewBox="0 0 152 44" role="img" aria-labelledby="title"><title id="title">No Bloat</title>
+    <path d="M9 1H151V34L142 43H1V10Z" fill="#0B1218" stroke="#263840"/>
+    <path d="M1 19V10L10 1H29" fill="none" stroke="#FF2BD6"/>
+    <text x="16" y="27" fill="#FF2BD6" font-family="Consolas,Menlo,monospace" font-size="11">03</text>
+    <path d="M39 14V30" stroke="#2B3C45"/>
+    <text x="51" y="27" fill="#DBE7EF" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing=".3">NO BLOAT</text>
+  </svg>

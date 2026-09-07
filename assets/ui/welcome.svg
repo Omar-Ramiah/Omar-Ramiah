@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="116" viewBox="0 0 1200 116" role="img" aria-labelledby="title"><title id="title">Welcome to the Future!</title>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14232B" stroke-width="1"/></pattern>
+    <linearGradient id="edge"><stop stop-color="#00E5FF"/><stop offset=".62" stop-color="#FF2BD6"/><stop offset="1" stop-color="#9EFF00"/></linearGradient>
+  </defs>
+  <path d="M18 1H1182L1199 18V98L1182 115H18L1 98V18Z" fill="#090F14" stroke="#263840"/>
+  <path d="M18 2H1182L1198 18V98L1182 114H18L2 98V18Z" fill="url(#grid)" opacity=".46"/>
+  <path d="M1 33V18L18 1H176M1024 115H1182L1199 98V83" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <g fill="none" stroke="#28505B"><path d="M36 58H138L151 45H230M964 71H1047L1060 58H1164"/><path d="M268 48V68M258 58H278M922 48V68M912 58H932"/></g>
+  <circle cx="36" cy="58" r="3" fill="#00E5FF"/><circle cx="1164" cy="58" r="3" fill="#9EFF00"/>
+  <text x="600" y="72" text-anchor="middle" fill="#E8F2F7" font-family="Consolas,Menlo,monospace" font-size="42" font-weight="600" letter-spacing="4">WELCOME TO THE <tspan fill="#00E5FF">FUTURE</tspan></text>
+  <path d="M558 91H581" stroke="#00E5FF" stroke-width="2"/><path d="M589 91H612" stroke="#FF2BD6" stroke-width="2"/><path d="M620 91H643" stroke="#9EFF00" stroke-width="2"/>
+</svg>

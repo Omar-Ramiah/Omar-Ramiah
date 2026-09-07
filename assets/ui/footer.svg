@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32" viewBox="0 0 1200 32" role="img" aria-labelledby="title"><title id="title">Decorative circuit divider</title>
+  <path d="M0 8H130L146 24H518M682 24H1054L1070 8H1200" fill="none" stroke="#344A56"/>
+  <path d="M0 8H90M1110 8H1200" stroke="#00E5FF"/>
+  <path d="M552 24H576" stroke="#00E5FF" stroke-width="3"/><path d="M588 24H612" stroke="#FF2BD6" stroke-width="3"/><path d="M624 24H648" stroke="#9EFF00" stroke-width="3"/>
+</svg>

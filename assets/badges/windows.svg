@@ -1,8 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="82" height="20" viewBox="0 0 82 20" role="img" aria-labelledby="title">
-  <title id="title">Windows</title>
-  <rect width="82" height="20" fill="#0B0F14"/>
-  <svg x="5" y="3" width="14" height="14" viewBox="0 0 128 128">
-    <path fill="#00E5FF" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="44" viewBox="0 0 124 44" role="img" aria-labelledby="title"><title id="title">Windows</title>
+    <path d="M1 1H114L123 10V43H10L1 34Z" fill="#0B1218" stroke="#263840"/>
+    <path d="M12 43H112" stroke="#00E5FF" stroke-opacity=".65"/>
+    <svg x="13" y="12" width="20" height="20" viewBox="0 0 128 128" fill="#00E5FF"><path fill="#00E5FF" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z"/></svg>
+    <text x="43" y="27" fill="#E3EDF3" font-family="Consolas,Menlo,monospace" font-size="13">Windows</text>
   </svg>
-  <text x="25" y="14" fill="#FFFFFF" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="11">Windows</text>
-</svg>
