@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/welcome.svg?v=57398ab7" width="100%" alt="Welcome to the Future!" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/privacy.svg?v=152286f6" width="184" height="44" alt="Privacy First" />
   <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/offline.svg?v=df39dad7" width="264" height="44" alt="Offline When Possible" />
   <img src="https://raw.githubusercontent.com/Omar-Ramiah/Omar-Ramiah/main/assets/ui/no-bloat.svg?v=8389f0fb" width="152" height="44" alt="No Bloat" />
